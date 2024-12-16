@@ -1,0 +1,3 @@
+docker ps
+docker run -it 
+docker delete 
