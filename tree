@@ -1,0 +1,4 @@
+cd ..
+mkdir -p ll/kk/jj
+touch 
+rm -rf 
