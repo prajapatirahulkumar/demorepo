@@ -7,10 +7,11 @@ emergency file create
 5 + 7 = 12
 
 
-<<<<<<< HEAD
 test file main branch test1
-test file main branch test2
-=======
+
+
 test file mergetest test1
 test file mergetest test2
->>>>>>> mergetest
+
+test file main branch test1
+test file main branch test2l
