@@ -1,3 +1,7 @@
 docker ps
 docker run -it 
 docker delete 
+
+
+newww code replace 
+file docker create to mouse
