@@ -3,5 +3,5 @@ docker run -it
 docker delete 
 
 
-newww code replace 
+new code replace 
 file docker create to mouse
